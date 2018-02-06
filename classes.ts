@@ -9,7 +9,7 @@ interface userInterface{
     register()
 }
 
-// I am practicing git staging
+// I am practicing git staging 2
 
 class User implements userInterface{
     
