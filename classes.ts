@@ -9,6 +9,8 @@ interface userInterface{
     register()
 }
 
+// I am practicing git staging
+
 class User implements userInterface{
     
     name:string
